@@ -1,0 +1,58 @@
+body {
+  font-family: sans-serif;
+}
+
+.row {
+  margin-left: -20px;
+}
+
+.span6 {
+  padding-left: 10px;
+  margin-left: 10px;
+  max-width: 50%;
+  float: left;
+  height: 100%;
+}
+
+.span6:nth-child(2) {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
+
+table#oven {
+  background-color: #bbb;
+  padding: 5px;
+  margin: 5px;
+}
+
+table#oven td {
+  padding: 8px;
+  border-bottom: 2px solid;
+  background-color: #bbb;
+}
+
+table#oven td.raw, .raw {
+  background-color: red;
+  color: white;
+}
+
+table#oven td.still_gooey, .still_gooey {
+  background-color: yellow;
+  color: black;
+}
+
+table#oven td.just_right, .just_right {
+  background-color: green;
+  color: white;
+}
+
+table#oven td.crispy, .crispy {
+  background-color: black;
+  color: white;
+}
+
+table#oven span.status {
+  margin-left: 5px;
+  font-size: 0.8em;
+  font-style: italic;
+}

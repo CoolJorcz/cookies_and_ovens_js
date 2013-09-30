@@ -1,0 +1,174 @@
+Started GET "/specs?console=true&spec" for 127.0.0.1 at 2013-09-03 16:19:11 -0500
+Connecting to database specified by database.yml
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"console"=>"true", "spec"=>nil}
+  Rendered /Users/apprentice/.rvm/gems/ruby-1.9.3-p374/gems/jasmine-rails-0.4.5/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (1.7ms)
+Compiled jasmine.css  (0ms)  (pid 46820)
+Compiling jasmine.css to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.css
+Compiling jasmine.css to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.css
+Compiled jasmine.js  (0ms)  (pid 46820)
+Compiling jasmine.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.js
+Compiling jasmine.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.js
+Compiled jasmine-html.js  (0ms)  (pid 46820)
+Compiling jasmine-html.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-html.js
+Compiling jasmine-html.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-html.js
+Compiled json2.js  (1ms)  (pid 46820)
+Compiling json2.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/json2.js
+Compiling json2.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/json2.js
+Compiled jasmine-console-reporter.js  (0ms)  (pid 46820)
+Compiling jasmine-console-reporter.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-console-reporter.js
+Compiling jasmine-console-reporter.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-console-reporter.js
+Compiled jasmine-boot.js  (0ms)  (pid 46820)
+Compiling jasmine-boot.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-boot.js
+Compiling jasmine-boot.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-boot.js
+Compiled application/index.js  (0ms)  (pid 46820)
+Compiled jquery.js  (2ms)  (pid 46820)
+Compiled jquery_ujs.js  (26ms)  (pid 46820)
+Compiled application.js  (49ms)  (pid 46820)
+Compiled index_spec.js  (0ms)  (pid 46820)
+Compiled jasmine-specs.js  (74ms)  (pid 46820)
+Compiling jasmine-specs.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-specs.js
+Compiling jasmine-specs.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-specs.js
+Completed 200 OK in 364ms (Views: 364.2ms | ActiveRecord: 0.0ms)
+Started GET "/specs?console=true&spec" for 127.0.0.1 at 2013-09-03 16:31:44 -0500
+Connecting to database specified by database.yml
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"console"=>"true", "spec"=>nil}
+  Rendered /Users/apprentice/.rvm/gems/ruby-1.9.3-p374/gems/jasmine-rails-0.4.5/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (1.5ms)
+Compiled jasmine.css  (0ms)  (pid 47374)
+Compiling jasmine.css to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.css
+Compiling jasmine.css to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.css
+Compiled jasmine.js  (0ms)  (pid 47374)
+Compiling jasmine.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.js
+Compiling jasmine.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.js
+Compiled jasmine-html.js  (0ms)  (pid 47374)
+Compiling jasmine-html.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-html.js
+Compiling jasmine-html.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-html.js
+Compiled json2.js  (0ms)  (pid 47374)
+Compiling json2.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/json2.js
+Compiling json2.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/json2.js
+Compiling jasmine-console-reporter.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-console-reporter.js
+Compiling jasmine-console-reporter.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-console-reporter.js
+Compiled jasmine-boot.js  (0ms)  (pid 47374)
+Compiling jasmine-boot.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-boot.js
+Compiling jasmine-boot.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-boot.js
+Compiled application/index.js  (0ms)  (pid 47374)
+Compiled jquery.js  (1ms)  (pid 47374)
+Compiled jquery_ujs.js  (0ms)  (pid 47374)
+Compiled application.js  (13ms)  (pid 47374)
+Compiled index_spec.js  (0ms)  (pid 47374)
+Compiled jasmine-specs.js  (28ms)  (pid 47374)
+Compiling jasmine-specs.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-specs.js
+Compiling jasmine-specs.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-specs.js
+Completed 200 OK in 167ms (Views: 167.1ms | ActiveRecord: 0.0ms)
+Started GET "/specs?console=true&spec" for 127.0.0.1 at 2013-09-03 16:32:32 -0500
+Connecting to database specified by database.yml
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"console"=>"true", "spec"=>nil}
+  Rendered /Users/apprentice/.rvm/gems/ruby-1.9.3-p374/gems/jasmine-rails-0.4.5/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (4.0ms)
+Compiling jasmine.css to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.css
+Compiling jasmine.css to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.css
+Compiling jasmine.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.js
+Compiling jasmine.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.js
+Compiling jasmine-html.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-html.js
+Compiling jasmine-html.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-html.js
+Compiling json2.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/json2.js
+Compiling json2.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/json2.js
+Compiling jasmine-console-reporter.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-console-reporter.js
+Compiling jasmine-console-reporter.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-console-reporter.js
+Compiling jasmine-boot.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-boot.js
+Compiling jasmine-boot.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-boot.js
+Compiling jasmine-specs.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-specs.js
+Compiling jasmine-specs.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-specs.js
+Completed 200 OK in 62ms (Views: 62.2ms | ActiveRecord: 0.0ms)
+Started GET "/specs?console=true&spec" for 127.0.0.1 at 2013-09-03 16:40:40 -0500
+Connecting to database specified by database.yml
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"console"=>"true", "spec"=>nil}
+  Rendered /Users/apprentice/.rvm/gems/ruby-1.9.3-p374/gems/jasmine-rails-0.4.5/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (1.6ms)
+Compiled jasmine.css  (0ms)  (pid 47856)
+Compiling jasmine.css to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.css
+Compiling jasmine.css to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.css
+Compiled jasmine.js  (0ms)  (pid 47856)
+Compiling jasmine.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.js
+Compiling jasmine.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.js
+Compiled jasmine-html.js  (0ms)  (pid 47856)
+Compiling jasmine-html.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-html.js
+Compiling jasmine-html.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-html.js
+Compiled json2.js  (0ms)  (pid 47856)
+Compiling json2.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/json2.js
+Compiling json2.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/json2.js
+Compiling jasmine-console-reporter.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-console-reporter.js
+Compiling jasmine-console-reporter.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-console-reporter.js
+Compiled jasmine-boot.js  (0ms)  (pid 47856)
+Compiling jasmine-boot.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-boot.js
+Compiling jasmine-boot.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-boot.js
+Compiled application/index.js  (0ms)  (pid 47856)
+Compiled jquery.js  (2ms)  (pid 47856)
+Compiled jquery_ujs.js  (0ms)  (pid 47856)
+Compiled application.js  (16ms)  (pid 47856)
+Compiled jasmine-specs.js  (29ms)  (pid 47856)
+Compiling jasmine-specs.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-specs.js
+Compiling jasmine-specs.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-specs.js
+Completed 200 OK in 225ms (Views: 225.0ms | ActiveRecord: 0.0ms)
+Started GET "/specs?console=true&spec" for 127.0.0.1 at 2013-09-04 07:04:36 -0500
+Connecting to database specified by database.yml
+Started GET "/specs?console=true&spec" for 127.0.0.1 at 2013-09-04 07:16:44 -0500
+Connecting to database specified by database.yml
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"console"=>"true", "spec"=>nil}
+  Rendered /Users/apprentice/.rvm/gems/ruby-1.9.3-p374/gems/jasmine-rails-0.4.5/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (1.7ms)
+Compiled jasmine.css  (0ms)  (pid 56878)
+Compiling jasmine.css to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.css
+Compiling jasmine.css to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.css
+Compiled jasmine.js  (0ms)  (pid 56878)
+Compiling jasmine.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.js
+Compiling jasmine.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.js
+Compiled jasmine-html.js  (0ms)  (pid 56878)
+Compiling jasmine-html.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-html.js
+Compiling jasmine-html.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-html.js
+Compiled json2.js  (1ms)  (pid 56878)
+Compiling json2.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/json2.js
+Compiling json2.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/json2.js
+Compiling jasmine-console-reporter.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-console-reporter.js
+Compiling jasmine-console-reporter.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-console-reporter.js
+Compiled jasmine-boot.js  (0ms)  (pid 56878)
+Compiling jasmine-boot.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-boot.js
+Compiling jasmine-boot.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-boot.js
+Compiled index_spec.js  (0ms)  (pid 56878)
+Compiled application/index.js  (0ms)  (pid 56878)
+Compiled jquery.js  (2ms)  (pid 56878)
+Compiled jquery_ujs.js  (0ms)  (pid 56878)
+Compiled jasmine-jquery.js  (1ms)  (pid 56878)
+Compiled application.js  (54ms)  (pid 56878)
+Compiled jasmine-specs.js  (67ms)  (pid 56878)
+Compiling jasmine-specs.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-specs.js
+Compiling jasmine-specs.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-specs.js
+Completed 200 OK in 282ms (Views: 281.5ms | ActiveRecord: 0.0ms)
+Started GET "/specs?console=true&spec" for 127.0.0.1 at 2013-09-04 07:38:26 -0500
+Connecting to database specified by database.yml
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"console"=>"true", "spec"=>nil}
+  Rendered /Users/apprentice/.rvm/gems/ruby-1.9.3-p374/gems/jasmine-rails-0.4.5/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (1.9ms)
+Compiling jasmine.css to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.css
+Compiling jasmine.css to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.css
+Compiling jasmine.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.js
+Compiling jasmine.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine.js
+Compiling jasmine-html.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-html.js
+Compiling jasmine-html.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-html.js
+Compiling json2.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/json2.js
+Compiling json2.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/json2.js
+Compiling jasmine-console-reporter.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-console-reporter.js
+Compiling jasmine-console-reporter.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-console-reporter.js
+Compiling jasmine-boot.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-boot.js
+Compiling jasmine-boot.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-boot.js
+Compiled index_spec.js  (0ms)  (pid 57701)
+Compiled application/index.js  (0ms)  (pid 57701)
+Compiled jquery.js  (2ms)  (pid 57701)
+Compiled jquery_ujs.js  (0ms)  (pid 57701)
+Compiled jasmine-jquery.js  (0ms)  (pid 57701)
+Compiled application.js  (4ms)  (pid 57701)
+Compiled jasmine-specs.js  (3ms)  (pid 57701)
+Compiling jasmine-specs.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-specs.js
+Compiling jasmine-specs.js to /Users/apprentice/Cookies_n_Ovens/spec/tmp/assets/jasmine-specs.js
+Completed 200 OK in 144ms (Views: 143.4ms | ActiveRecord: 0.0ms)
