@@ -2,9 +2,10 @@
 
 
 An OOJS implementation of the Cookies and Ovens exercise, with full data persistence from JS to Ruby. 
-Contributors:
 
-*Andrew Jorczak
+===Contributors:
+
+* Andrew Jorczak
 * Mark Ducommun
 
 ===To Do
